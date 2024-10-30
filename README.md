@@ -1,6 +1,6 @@
 ```json
 {
-  "interests": ["Desenvolvimento Backend", "APIs RESTful", "Microsserviços", "Sistemas Escaláveis"],
+  "interests": ["API RESTful", "Microsserviços"],
   "currently_learning": ["Spring Boot", "Hibernate", "Docker", "Arquitetura de Software"],
-  "skills": ["Java", "Spring Framework", "MySQL", "PostgreSQL", "Maven", "Gradle"]
+  "skills": ["Java", "Spring Framework", "MongoDB", "PostgreSQL", "Maven"]
 }
